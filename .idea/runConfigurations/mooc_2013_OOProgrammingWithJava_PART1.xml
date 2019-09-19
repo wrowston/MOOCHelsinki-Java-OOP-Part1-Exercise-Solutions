@@ -1,0 +1,9 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="mooc-2013-OOProgrammingWithJava-PART1" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="Name" />
+    <module name="mooc-2013-OOProgrammingWithJava-PART1" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
